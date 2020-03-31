@@ -4,3 +4,5 @@ Algo
 3. Customize Pizza
 4. Call Pizza Joint
 5. Place Order
+6. Choose Card to pay for Order
+7. Wait on order to arrive
