@@ -6,3 +6,7 @@ Algo
 5. Place Order
 6. Choose Card to pay for Order
 7. Wait on order to arrive
+8. Verify order is correct
+   a. order is right
+   b. order is wrong
+9. Call Pizza joint if order is wrong
