@@ -1,0 +1,6 @@
+Algo
+1. Decide on Pizza Joint
+2. Check out Menu
+3. Customize Pizza
+4. Call Pizza Joint
+5. Place Order
